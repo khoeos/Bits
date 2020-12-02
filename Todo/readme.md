@@ -13,6 +13,7 @@ Juste un simple système de todo-list, encore beaucoup d'améliorations et d'opt
 ## Améliorations / ajouts 
 - [ ] Optimisation du système de supression / ajout
 - [ ] Ajout d'un système de favoris
+- [ ] Ajout d'un système de catégories et filtres
 - [ ] Export / import de fichiers CSV
 - [ ] Optimiser le code de manière générale
 - [ ] (Commente ton putain de code)
